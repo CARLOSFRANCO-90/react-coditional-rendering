@@ -1,0 +1,29 @@
+.students-container{
+border: 1px solid tomato;
+    width: 99%;
+    margin-bottom: 1px;
+    min-height: 20px;   
+    padding: 1px;
+    text-align: left;
+
+}
+
+
+.nota-reprobada{
+    color: red;
+    font-weight: bold;
+    text-align: end;
+
+}
+.valor-nota{
+    margin-left: 80px;
+
+}
+
+.genero{
+    margin-left: 120px;
+}
+
+.Imagen{
+    width: 20px;
+}
